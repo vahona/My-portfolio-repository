@@ -1,0 +1,60 @@
+html {
+    background-color: aliceblue;
+    font-family: roboto;
+}
+
+
+.game_landing_page {
+    background-color: #a96be2;
+    box-shadow: 5px 6px 10px deeppink;
+    padding: 5rem;
+    max-width: 50%;
+    border-radius: 20px;
+}
+h1 {
+    text-align: center;
+}
+
+.front-end-assessment {
+   background-color: darkolivegreen;
+    box-shadow: 5px 6px 10px rgb(8, 163, 91);
+   max-width: 50%;
+   padding: 5rem;
+   border-radius: 20px;
+   margin-inline-start: 1rem;
+}
+
+.each_link {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.container {
+    display: flex;
+}
+
+.logo_game {
+    max-width: 20%;
+
+}
+.sign {
+    display: flex;
+}
+
+.small {
+   background-color: blueviolet;
+   width: 10px;
+   height: 16px;
+   border-radius: 16px;
+   margin-right: 0.25rem;
+}
+
+.larg {
+
+   background-color: rgb(230, 47, 199);
+   width: 16px;
+   height: 32px;
+   border-radius: 16px;
+
+}
