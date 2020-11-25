@@ -1,0 +1,24 @@
+{
+  "name": "my-portfolio-repository",
+  "version": "1.0.0",
+  "description": "Portfolio repository to all project which I have done",
+  "main": "index.js",
+  "scripts": {
+    "css": "node-sass scss -o webroot/css",
+    "css:watch": "npm run css && node-sass scss -w -o webroot/css",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vahona/My-portfolio-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vahona/My-portfolio-repository/issues"
+  },
+  "homepage": "https://github.com/vahona/My-portfolio-repository#readme",
+  "dependencies": {
+    "sass": "^1.27.0"
+  }
+}
