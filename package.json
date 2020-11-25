@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/vahona/My-portfolio-repository#readme",
   "dependencies": {
-    "sass": "^1.27.0"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "sass": "^1.27.0",
+    "styled-components": "^5.2.1"
   }
 }
